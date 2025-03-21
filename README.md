@@ -13,7 +13,7 @@ Long dropdown lists require excessive scrolling and be difficult to navigate. Th
 ***
 2. The second problem I had was in a scenario where a user is adding multiple classes from the same subject. When doing so the user must go through the entire search process each time. **Below shows the process of adding two classes from the same subject. Note how many screen I had to go through:**
 
-![Gif showing process of adding multiple classes](https://i.imgur.com/OMknhbG.gif)
+![Gif showing process of adding multiple classes](https://github.com/noahmcallister04/UxMidtermProject/blob/main/midtermsecond%20problem%20(1).gif)
 
 **Why is this bad UX?:**
 Often for a semester, a student will enroll for multiple classes under the same subject. In order to do it on this system, they must go through the entire search process with multiple screens multiple times leading to redundency and a waste of time. This system is inefficient because it forces users to repeat the same steps and wastes time and effort, which can be frustrating for the user.
