@@ -2,7 +2,7 @@
 Noah McAllister
 
 ## The Problem
-For this Midterm Project I identified three problems with the "Manage Classes" section in Myzou.
+For this Midterm Project I identified two problems with the "Manage Classes" section in Myzou.
 
 1. The first problem I had was this extremely large drop down menu that goes over every individual subject offered at Mizzou.
 
