@@ -31,4 +31,4 @@ Often for a semester, a student will enroll for multiple classes under the same 
 ***
 2. The fix to the second issue is actually pretty simple. After adding the class, a button should be added to "Continue Previous Search". This would skip the search process if the user knows they'll be adding a class from the same subject. The user would save time and frustration. **This is what a rough implementation would look like:**
 
-![Image 2 of Proposed Solution](https://github.com/noahmcallister04/UxMidtermProject/blob/main/midtermsecond%20problem%20(1).gif?raw=true)
+![Image 2 of Proposed Solution](https://github.com/noahmcallister04/UxMidtermProject/blob/main/Solution%20%232%20(1).gif?raw=true)
